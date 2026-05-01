@@ -2998,5 +2998,205 @@
     "fetch_failed": 0,
     "too_old": 0,
     "pages_visited": 3
+  },
+  "cat:2026-05-01T06:https://znews.vn/xuat-ban.html": {
+    "done": true,
+    "ts": "2026-05-01T06:32:37.766268+00:00",
+    "added": 9,
+    "dup": 203,
+    "invalid": 0,
+    "fetch_failed": 0,
+    "too_old": 40,
+    "pages_visited": 5
+  },
+  "cat:2026-05-01T06:https://znews.vn/kinh-doanh-tai-chinh.html": {
+    "done": true,
+    "ts": "2026-05-01T06:33:19.296216+00:00",
+    "added": 18,
+    "dup": 566,
+    "invalid": 0,
+    "fetch_failed": 0,
+    "too_old": 13,
+    "pages_visited": 12
+  },
+  "cat:2026-05-01T06:https://znews.vn/suc-khoe.html": {
+    "done": true,
+    "ts": "2026-05-01T06:34:01.327256+00:00",
+    "added": 12,
+    "dup": 280,
+    "invalid": 0,
+    "fetch_failed": 0,
+    "too_old": 26,
+    "pages_visited": 6
+  },
+  "cat:2026-05-01T06:https://znews.vn/the-thao.html": {
+    "done": true,
+    "ts": "2026-05-01T06:35:09.362151+00:00",
+    "added": 39,
+    "dup": 865,
+    "invalid": 0,
+    "fetch_failed": 0,
+    "too_old": 13,
+    "pages_visited": 20
+  },
+  "cat:2026-05-01T06:https://znews.vn/doi-song.html": {
+    "done": true,
+    "ts": "2026-05-01T06:36:04.616246+00:00",
+    "added": 12,
+    "dup": 212,
+    "invalid": 0,
+    "fetch_failed": 0,
+    "too_old": 41,
+    "pages_visited": 6
+  },
+  "cat:2026-05-01T06:https://znews.vn/cong-nghe.html": {
+    "done": true,
+    "ts": "2026-05-01T06:36:55.496993+00:00",
+    "added": 6,
+    "dup": 152,
+    "invalid": 0,
+    "fetch_failed": 0,
+    "too_old": 44,
+    "pages_visited": 4
+  },
+  "cat:2026-05-01T06:https://znews.vn/giai-tri.html": {
+    "done": true,
+    "ts": "2026-05-01T06:38:11.429081+00:00",
+    "added": 16,
+    "dup": 341,
+    "invalid": 0,
+    "fetch_failed": 0,
+    "too_old": 57,
+    "pages_visited": 8
+  },
+  "cat:2026-05-01T06:https://laodong.vn/thoi-su/": {
+    "done": true,
+    "ts": "2026-05-01T06:39:02.205344+00:00",
+    "added": 11,
+    "dup": 254,
+    "invalid": 5,
+    "fetch_failed": 0,
+    "too_old": 15,
+    "pages_visited": 21
+  },
+  "cat:2026-05-01T06:https://laodong.vn/the-gioi/": {
+    "done": true,
+    "ts": "2026-05-01T06:39:29.275492+00:00",
+    "added": 10,
+    "dup": 148,
+    "invalid": 5,
+    "fetch_failed": 0,
+    "too_old": 3,
+    "pages_visited": 11
+  },
+  "cat:2026-05-01T06:https://laodong.vn/xa-hoi/": {
+    "done": true,
+    "ts": "2026-05-01T06:41:01.595199+00:00",
+    "added": 57,
+    "dup": 254,
+    "invalid": 15,
+    "fetch_failed": 0,
+    "too_old": 1,
+    "pages_visited": 24
+  },
+  "cat:2026-05-01T06:https://laodong.vn/phap-luat/": {
+    "done": true,
+    "ts": "2026-05-01T06:41:51.923501+00:00",
+    "added": 21,
+    "dup": 227,
+    "invalid": 10,
+    "fetch_failed": 0,
+    "too_old": 3,
+    "pages_visited": 20
+  },
+  "cat:2026-05-01T06:https://laodong.vn/kinh-doanh/": {
+    "done": true,
+    "ts": "2026-05-01T06:42:59.678763+00:00",
+    "added": 44,
+    "dup": 163,
+    "invalid": 13,
+    "fetch_failed": 0,
+    "too_old": 1,
+    "pages_visited": 15
+  },
+  "cat:2026-05-01T06:https://laodong.vn/bat-dong-san/": {
+    "done": true,
+    "ts": "2026-05-01T06:43:39.377676+00:00",
+    "added": 10,
+    "dup": 136,
+    "invalid": 7,
+    "fetch_failed": 0,
+    "too_old": 14,
+    "pages_visited": 11
+  },
+  "cat:2026-05-01T06:https://laodong.vn/van-hoa/": {
+    "done": true,
+    "ts": "2026-05-01T06:44:07.422249+00:00",
+    "added": 15,
+    "dup": 72,
+    "invalid": 9,
+    "fetch_failed": 0,
+    "too_old": 1,
+    "pages_visited": 5
+  },
+  "cat:2026-05-01T06:https://laodong.vn/giao-duc/": {
+    "done": true,
+    "ts": "2026-05-01T06:44:31.014570+00:00",
+    "added": 10,
+    "dup": 71,
+    "invalid": 7,
+    "fetch_failed": 0,
+    "too_old": 1,
+    "pages_visited": 7
+  },
+  "cat:2026-05-01T06:https://laodong.vn/the-thao/": {
+    "done": true,
+    "ts": "2026-05-01T06:45:21.572558+00:00",
+    "added": 25,
+    "dup": 254,
+    "invalid": 7,
+    "fetch_failed": 0,
+    "too_old": 2,
+    "pages_visited": 20
+  },
+  "cat:2026-05-01T06:https://laodong.vn/suc-khoe/": {
+    "done": true,
+    "ts": "2026-05-01T06:47:05.150004+00:00",
+    "added": 32,
+    "dup": 184,
+    "invalid": 45,
+    "fetch_failed": 0,
+    "too_old": 11,
+    "pages_visited": 20
+  },
+  "cat:2026-05-01T06:https://laodong.vn/cong-nghe/": {
+    "done": true,
+    "ts": "2026-05-01T06:47:47.172959+00:00",
+    "added": 13,
+    "dup": 96,
+    "invalid": 5,
+    "fetch_failed": 0,
+    "too_old": 18,
+    "pages_visited": 8
+  },
+  "cat:2026-05-01T06:https://laodong.vn/xe/": {
+    "done": true,
+    "ts": "2026-05-01T06:48:08.005804+00:00",
+    "added": 5,
+    "dup": 105,
+    "invalid": 5,
+    "fetch_failed": 0,
+    "too_old": 5,
+    "pages_visited": 7
+  },
+  "cat:2026-05-01T06:https://laodong.vn/du-lich/": {
+    "done": true,
+    "ts": "2026-05-01T06:48:10.789903+00:00",
+    "added": 0,
+    "dup": 0,
+    "invalid": 0,
+    "fetch_failed": 0,
+    "too_old": 0,
+    "pages_visited": 3
   }
 }
