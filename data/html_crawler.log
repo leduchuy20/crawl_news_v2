@@ -1,0 +1,380 @@
+2026-04-19 00:40:51 | INFO    | html_crawler | ============================================================
+2026-04-19 00:40:51 | INFO    | html_crawler | HTML CRAWLER STARTED
+2026-04-19 00:40:51 | INFO    | html_crawler | ============================================================
+2026-04-19 00:40:51 | INFO    | html_crawler | >>> SITE: 24h.com.vn
+2026-04-19 00:41:50 | INFO    | html_crawler |   OK https://www.24h.com.vn/tin-tuc-trong-ngay-c46.html: {'added': 0, 'dup': 0, 'invalid': 59, 'fetch_failed': 0, 'pages_visited': 4}
+2026-04-19 00:43:27 | INFO    | html_crawler |   OK https://www.24h.com.vn/bong-da-c48.html: {'added': 0, 'dup': 0, 'invalid': 96, 'fetch_failed': 0, 'pages_visited': 4}
+2026-04-19 00:44:22 | INFO    | html_crawler |   OK https://www.24h.com.vn/the-thao-c101.html: {'added': 0, 'dup': 0, 'invalid': 54, 'fetch_failed': 0, 'pages_visited': 4}
+2026-04-19 00:45:09 | INFO    | html_crawler |   OK https://www.24h.com.vn/thoi-trang-c78.html: {'added': 0, 'dup': 0, 'invalid': 46, 'fetch_failed': 0, 'pages_visited': 4}
+2026-04-19 00:45:56 | INFO    | html_crawler |   OK https://www.24h.com.vn/hi-tech-c66.html: {'added': 0, 'dup': 0, 'invalid': 45, 'fetch_failed': 0, 'pages_visited': 4}
+2026-04-19 00:46:58 | INFO    | html_crawler |   OK https://www.24h.com.vn/tai-chinh-bat-dong-san-c161.html: {'added': 0, 'dup': 0, 'invalid': 61, 'fetch_failed': 0, 'pages_visited': 4}
+2026-04-19 00:47:45 | INFO    | html_crawler |   OK https://www.24h.com.vn/phim-c74.html: {'added': 0, 'dup': 0, 'invalid': 45, 'fetch_failed': 0, 'pages_visited': 4}
+2026-04-19 00:48:33 | INFO    | html_crawler |   OK https://www.24h.com.vn/giao-duc-du-hoc-c216.html: {'added': 0, 'dup': 0, 'invalid': 46, 'fetch_failed': 0, 'pages_visited': 4}
+2026-04-19 00:49:26 | INFO    | html_crawler |   OK https://www.24h.com.vn/ban-tre-cuoc-song-c64.html: {'added': 0, 'dup': 0, 'invalid': 51, 'fetch_failed': 0, 'pages_visited': 4}
+2026-04-19 00:49:26 | INFO    | html_crawler | >>> SITE: znews.vn
+2026-04-19 00:49:28 | INFO    | html_crawler |   OK https://znews.vn/xuat-ban.html: {'added': 0, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'pages_visited': 3}
+2026-04-19 00:49:31 | INFO    | html_crawler |   OK https://znews.vn/kinh-doanh-tai-chinh.html: {'added': 0, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'pages_visited': 3}
+2026-04-19 00:49:34 | INFO    | html_crawler |   OK https://znews.vn/suc-khoe.html: {'added': 0, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'pages_visited': 3}
+2026-04-19 00:49:37 | INFO    | html_crawler |   OK https://znews.vn/the-thao.html: {'added': 0, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'pages_visited': 3}
+2026-04-19 00:49:40 | INFO    | html_crawler |   OK https://znews.vn/doi-song.html: {'added': 0, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'pages_visited': 3}
+2026-04-19 00:49:43 | INFO    | html_crawler |   OK https://znews.vn/cong-nghe.html: {'added': 0, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'pages_visited': 3}
+2026-04-19 00:49:46 | INFO    | html_crawler |   OK https://znews.vn/giai-tri.html: {'added': 0, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'pages_visited': 3}
+2026-04-19 00:49:46 | INFO    | html_crawler | >>> SITE: laodong.vn
+2026-04-19 00:50:15 | INFO    | html_crawler |   OK https://laodong.vn/thoi-su/: {'added': 0, 'dup': 0, 'invalid': 28, 'fetch_failed': 0, 'pages_visited': 4}
+2026-04-19 00:50:46 | INFO    | html_crawler |   OK https://laodong.vn/the-gioi/: {'added': 0, 'dup': 0, 'invalid': 29, 'fetch_failed': 0, 'pages_visited': 4}
+2026-04-19 00:51:19 | INFO    | html_crawler |   OK https://laodong.vn/xa-hoi/: {'added': 0, 'dup': 0, 'invalid': 31, 'fetch_failed': 0, 'pages_visited': 4}
+2026-04-19 00:51:53 | INFO    | html_crawler |   OK https://laodong.vn/phap-luat/: {'added': 0, 'dup': 0, 'invalid': 32, 'fetch_failed': 0, 'pages_visited': 4}
+2026-04-19 00:52:28 | INFO    | html_crawler |   OK https://laodong.vn/kinh-doanh/: {'added': 0, 'dup': 0, 'invalid': 32, 'fetch_failed': 0, 'pages_visited': 4}
+2026-04-19 00:53:07 | INFO    | html_crawler |   OK https://laodong.vn/van-hoa/: {'added': 0, 'dup': 0, 'invalid': 37, 'fetch_failed': 0, 'pages_visited': 4}
+2026-04-19 00:53:41 | INFO    | html_crawler |   OK https://laodong.vn/giao-duc/: {'added': 0, 'dup': 0, 'invalid': 31, 'fetch_failed': 0, 'pages_visited': 4}
+2026-04-19 00:54:23 | INFO    | html_crawler |   OK https://laodong.vn/the-thao/: {'added': 0, 'dup': 0, 'invalid': 41, 'fetch_failed': 0, 'pages_visited': 4}
+2026-04-19 00:55:05 | INFO    | html_crawler |   OK https://laodong.vn/suc-khoe/: {'added': 0, 'dup': 0, 'invalid': 40, 'fetch_failed': 0, 'pages_visited': 4}
+2026-04-19 00:55:39 | INFO    | html_crawler |   OK https://laodong.vn/cong-nghe/: {'added': 0, 'dup': 0, 'invalid': 31, 'fetch_failed': 0, 'pages_visited': 4}
+2026-04-19 00:56:13 | INFO    | html_crawler |   OK https://laodong.vn/xe/: {'added': 0, 'dup': 0, 'invalid': 32, 'fetch_failed': 0, 'pages_visited': 4}
+2026-04-19 00:56:16 | INFO    | html_crawler |   OK https://laodong.vn/du-lich/: {'added': 0, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'pages_visited': 3}
+2026-04-19 00:56:16 | INFO    | html_crawler | ============================================================
+2026-04-19 00:56:16 | INFO    | html_crawler | FINAL STATS: {'added': 0, 'dup': 0, 'invalid': 867, 'fetch_failed': 0, 'pages_visited': 104}
+2026-04-19 00:56:16 | INFO    | html_crawler | Total records in store: 0
+2026-04-19 00:56:16 | INFO    | html_crawler | Output: data\html_articles.jsonl
+2026-04-19 00:56:16 | INFO    | html_crawler | ============================================================
+2026-04-19 02:06:44 | INFO    | html_crawler | ============================================================
+2026-04-19 02:06:44 | INFO    | html_crawler | HTML CRAWLER STARTED
+2026-04-19 02:06:44 | INFO    | html_crawler | ============================================================
+2026-04-19 02:06:44 | INFO    | html_crawler | >>> SITE: znews.vn
+2026-04-19 02:08:28 | INFO    | html_crawler |   OK https://znews.vn/xuat-ban.html: {'added': 44, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'too_old': 62, 'pages_visited': 2}
+2026-04-19 02:11:59 | INFO    | html_crawler |   OK https://znews.vn/kinh-doanh-tai-chinh.html: {'added': 134, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'too_old': 76, 'pages_visited': 4}
+2026-04-19 02:14:42 | INFO    | html_crawler |   OK https://znews.vn/suc-khoe.html: {'added': 57, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'too_old': 110, 'pages_visited': 3}
+2026-04-19 02:19:19 | INFO    | html_crawler |   OK https://znews.vn/the-thao.html: {'added': 199, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'too_old': 87, 'pages_visited': 6}
+2026-04-19 02:21:27 | INFO    | html_crawler |   OK https://znews.vn/doi-song.html: {'added': 43, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'too_old': 90, 'pages_visited': 3}
+2026-04-19 02:23:06 | INFO    | html_crawler |   OK https://znews.vn/cong-nghe.html: {'added': 31, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'too_old': 71, 'pages_visited': 2}
+2026-04-19 02:25:48 | INFO    | html_crawler |   OK https://znews.vn/giai-tri.html: {'added': 76, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'too_old': 92, 'pages_visited': 3}
+
+2026-04-19 02:34:54 | INFO    | html_crawler | ============================================================
+2026-04-19 02:34:54 | INFO    | html_crawler | HTML CRAWLER STARTED
+2026-04-19 02:34:54 | INFO    | html_crawler | ============================================================
+2026-04-19 02:34:54 | INFO    | html_crawler | >>> SITE: znews.vn
+2026-04-19 02:34:54 | INFO    | html_crawler |   SKIP (already done today): https://znews.vn/xuat-ban.html
+2026-04-19 02:34:54 | INFO    | html_crawler |   SKIP (already done today): https://znews.vn/kinh-doanh-tai-chinh.html
+2026-04-19 02:34:54 | INFO    | html_crawler |   SKIP (already done today): https://znews.vn/suc-khoe.html
+2026-04-19 02:34:54 | INFO    | html_crawler |   SKIP (already done today): https://znews.vn/the-thao.html
+2026-04-19 02:34:54 | INFO    | html_crawler |   SKIP (already done today): https://znews.vn/doi-song.html
+2026-04-19 02:34:54 | INFO    | html_crawler |   SKIP (already done today): https://znews.vn/cong-nghe.html
+2026-04-19 02:34:54 | INFO    | html_crawler |   SKIP (already done today): https://znews.vn/giai-tri.html
+2026-04-19 02:34:54 | INFO    | html_crawler | >>> SITE: laodong.vn
+2026-04-19 02:34:54 | INFO    | html_crawler |   SKIP (already done today): https://laodong.vn/thoi-su/
+2026-04-19 02:34:54 | INFO    | html_crawler |   SKIP (already done today): https://laodong.vn/the-gioi/
+2026-04-19 02:37:29 | INFO    | html_crawler |   OK https://laodong.vn/xa-hoi/: {'added': 93, 'dup': 38, 'invalid': 44, 'fetch_failed': 0, 'too_old': 15, 'pages_visited': 14}
+2026-04-19 02:38:31 | INFO    | html_crawler | ============================================================
+2026-04-19 02:38:31 | INFO    | html_crawler | HTML CRAWLER STARTED
+2026-04-19 02:38:31 | INFO    | html_crawler | ============================================================
+2026-04-19 02:38:31 | INFO    | html_crawler | >>> SITE: znews.vn
+2026-04-19 02:38:31 | INFO    | html_crawler |   SKIP (already done today): https://znews.vn/xuat-ban.html
+2026-04-19 02:38:31 | INFO    | html_crawler |   SKIP (already done today): https://znews.vn/kinh-doanh-tai-chinh.html
+2026-04-19 02:38:31 | INFO    | html_crawler |   SKIP (already done today): https://znews.vn/suc-khoe.html
+2026-04-19 02:38:31 | INFO    | html_crawler |   SKIP (already done today): https://znews.vn/the-thao.html
+2026-04-19 02:38:31 | INFO    | html_crawler |   SKIP (already done today): https://znews.vn/doi-song.html
+2026-04-19 02:38:31 | INFO    | html_crawler |   SKIP (already done today): https://znews.vn/cong-nghe.html
+2026-04-19 02:38:31 | INFO    | html_crawler |   SKIP (already done today): https://znews.vn/giai-tri.html
+2026-04-19 02:38:31 | INFO    | html_crawler | >>> SITE: laodong.vn
+2026-04-19 02:38:31 | INFO    | html_crawler |   SKIP (already done today): https://laodong.vn/thoi-su/
+2026-04-19 02:38:31 | INFO    | html_crawler |   SKIP (already done today): https://laodong.vn/the-gioi/
+2026-04-19 02:38:31 | INFO    | html_crawler |   SKIP (already done today): https://laodong.vn/xa-hoi/
+2026-04-19 02:40:15 | INFO    | html_crawler |   OK https://laodong.vn/phap-luat/: {'added': 60, 'dup': 18, 'invalid': 13, 'fetch_failed': 0, 'too_old': 28, 'pages_visited': 8}
+2026-04-19 02:42:55 | INFO    | html_crawler | ============================================================
+2026-04-19 02:42:55 | INFO    | html_crawler | HTML CRAWLER STARTED
+2026-04-19 02:42:55 | INFO    | html_crawler | ============================================================
+2026-04-19 02:42:55 | INFO    | html_crawler | >>> SITE: znews.vn
+2026-04-19 02:42:55 | INFO    | html_crawler |   SKIP (already done today): https://znews.vn/xuat-ban.html
+2026-04-19 02:42:55 | INFO    | html_crawler |   SKIP (already done today): https://znews.vn/kinh-doanh-tai-chinh.html
+2026-04-19 02:42:55 | INFO    | html_crawler |   SKIP (already done today): https://znews.vn/suc-khoe.html
+2026-04-19 02:42:55 | INFO    | html_crawler |   SKIP (already done today): https://znews.vn/the-thao.html
+2026-04-19 02:42:55 | INFO    | html_crawler |   SKIP (already done today): https://znews.vn/doi-song.html
+2026-04-19 02:42:55 | INFO    | html_crawler |   SKIP (already done today): https://znews.vn/cong-nghe.html
+2026-04-19 02:42:55 | INFO    | html_crawler |   SKIP (already done today): https://znews.vn/giai-tri.html
+2026-04-19 02:42:56 | INFO    | html_crawler | >>> SITE: laodong.vn
+2026-04-19 02:44:28 | INFO    | html_crawler |   OK https://laodong.vn/thoi-su/: {'added': 73, 'dup': 0, 'invalid': 5, 'fetch_failed': 0, 'too_old': 15, 'pages_visited': 6}
+2026-04-19 02:45:59 | INFO    | html_crawler |   OK https://laodong.vn/the-gioi/: {'added': 55, 'dup': 0, 'invalid': 12, 'fetch_failed': 0, 'too_old': 22, 'pages_visited': 5}
+2026-04-19 02:47:45 | INFO    | html_crawler |   OK https://laodong.vn/xa-hoi/: {'added': 26, 'dup': 123, 'invalid': 56, 'fetch_failed': 0, 'too_old': 15, 'pages_visited': 14}
+2026-04-19 02:48:58 | INFO    | html_crawler |   OK https://laodong.vn/phap-luat/: {'added': 24, 'dup': 71, 'invalid': 12, 'fetch_failed': 0, 'too_old': 28, 'pages_visited': 9}
+2026-04-19 02:50:12 | INFO    | html_crawler |   OK https://laodong.vn/kinh-doanh/: {'added': 32, 'dup': 77, 'invalid': 19, 'fetch_failed': 0, 'too_old': 18, 'pages_visited': 9}
+2026-04-19 02:51:30 | INFO    | html_crawler |   OK https://laodong.vn/bat-dong-san/: {'added': 50, 'dup': 0, 'invalid': 6, 'fetch_failed': 0, 'too_old': 20, 'pages_visited': 5}
+2026-04-19 02:52:37 | INFO    | html_crawler |   OK https://laodong.vn/van-hoa/: {'added': 23, 'dup': 0, 'invalid': 14, 'fetch_failed': 0, 'too_old': 30, 'pages_visited': 3}
+2026-04-19 02:54:06 | INFO    | html_crawler |   OK https://laodong.vn/giao-duc/: {'added': 50, 'dup': 0, 'invalid': 20, 'fetch_failed': 0, 'too_old': 17, 'pages_visited': 5}
+2026-04-19 02:56:15 | INFO    | html_crawler |   OK https://laodong.vn/the-thao/: {'added': 94, 'dup': 0, 'invalid': 11, 'fetch_failed': 0, 'too_old': 21, 'pages_visited': 7}
+2026-04-19 02:58:32 | INFO    | html_crawler |   OK https://laodong.vn/suc-khoe/: {'added': 54, 'dup': 0, 'invalid': 56, 'fetch_failed': 0, 'too_old': 24, 'pages_visited': 9}
+2026-04-19 02:59:45 | INFO    | html_crawler |   OK https://laodong.vn/cong-nghe/: {'added': 35, 'dup': 1, 'invalid': 6, 'fetch_failed': 0, 'too_old': 32, 'pages_visited': 4}
+2026-04-19 03:00:31 | INFO    | html_crawler |   OK https://laodong.vn/xe/: {'added': 15, 'dup': 0, 'invalid': 10, 'fetch_failed': 0, 'too_old': 21, 'pages_visited': 2}
+2026-04-19 03:00:34 | INFO    | html_crawler |   OK https://laodong.vn/du-lich/: {'added': 0, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'too_old': 0, 'pages_visited': 3}
+2026-04-19 03:00:34 | INFO    | html_crawler | ============================================================
+2026-04-19 03:00:34 | INFO    | html_crawler | FINAL STATS: {'added': 531, 'dup': 272, 'invalid': 227, 'fetch_failed': 0, 'too_old': 263, 'pages_visited': 81}
+2026-04-19 03:00:34 | INFO    | html_crawler | Total records in store: 1,423
+2026-04-19 03:00:34 | INFO    | html_crawler | Output: data\html_articles.jsonl
+2026-04-19 03:00:34 | INFO    | html_crawler | ============================================================
+2026-04-19 11:01:31 | INFO    | html_crawler | ============================================================
+2026-04-19 11:01:31 | INFO    | html_crawler | HTML CRAWLER STARTED
+2026-04-19 11:01:31 | INFO    | html_crawler | ============================================================
+2026-04-19 11:01:31 | INFO    | html_crawler | >>> SITE: znews.vn
+2026-04-19 11:02:31 | INFO    | html_crawler |   OK https://znews.vn/xuat-ban.html: {'added': 3, 'dup': 44, 'invalid': 0, 'fetch_failed': 0, 'too_old': 59, 'pages_visited': 2}
+2026-04-19 11:03:00 | INFO    | html_crawler |   OK https://znews.vn/kinh-doanh-tai-chinh.html: {'added': 9, 'dup': 134, 'invalid': 0, 'fetch_failed': 0, 'too_old': 18, 'pages_visited': 3}
+2026-04-19 11:03:59 | INFO    | html_crawler |   OK https://znews.vn/suc-khoe.html: {'added': 7, 'dup': 57, 'invalid': 0, 'fetch_failed': 0, 'too_old': 54, 'pages_visited': 2}
+2026-04-19 11:04:39 | INFO    | html_crawler |   OK https://znews.vn/the-thao.html: {'added': 28, 'dup': 198, 'invalid': 0, 'fetch_failed': 0, 'too_old': 8, 'pages_visited': 5}
+2026-04-19 11:05:27 | INFO    | html_crawler |   OK https://znews.vn/doi-song.html: {'added': 4, 'dup': 43, 'invalid': 1, 'fetch_failed': 0, 'too_old': 43, 'pages_visited': 2}
+2026-04-19 11:06:38 | INFO    | html_crawler |   OK https://znews.vn/cong-nghe.html: {'added': 3, 'dup': 31, 'invalid': 0, 'fetch_failed': 0, 'too_old': 68, 'pages_visited': 2}
+2026-04-19 11:07:20 | INFO    | html_crawler |   OK https://znews.vn/giai-tri.html: {'added': 8, 'dup': 76, 'invalid': 0, 'fetch_failed': 0, 'too_old': 34, 'pages_visited': 2}
+2026-04-19 11:19:51 | INFO    | html_crawler | ============================================================
+2026-04-19 11:19:51 | INFO    | html_crawler | HTML CRAWLER STARTED
+2026-04-19 11:19:51 | INFO    | html_crawler | ============================================================
+2026-04-19 11:19:51 | INFO    | html_crawler | >>> SITE: znews.vn
+2026-04-19 11:20:49 | INFO    | html_crawler |   OK https://znews.vn/xuat-ban.html: {'added': 1, 'dup': 47, 'invalid': 0, 'fetch_failed': 0, 'too_old': 58, 'pages_visited': 2}
+2026-04-19 11:21:09 | INFO    | html_crawler |   OK https://znews.vn/kinh-doanh-tai-chinh.html: {'added': 1, 'dup': 143, 'invalid': 0, 'fetch_failed': 0, 'too_old': 17, 'pages_visited': 3}
+2026-04-19 11:21:27 | INFO    | html_crawler |   OK https://znews.vn/suc-khoe.html: {'added': 0, 'dup': 50, 'invalid': 0, 'fetch_failed': 0, 'too_old': 18, 'pages_visited': 1}
+2026-04-19 11:21:31 | INFO    | html_crawler |   OK https://znews.vn/the-thao.html: {'added': 0, 'dup': 43, 'invalid': 0, 'fetch_failed': 0, 'too_old': 3, 'pages_visited': 1}
+2026-04-19 11:22:17 | INFO    | html_crawler |   OK https://znews.vn/doi-song.html: {'added': 1, 'dup': 46, 'invalid': 1, 'fetch_failed': 0, 'too_old': 43, 'pages_visited': 2}
+2026-04-19 11:22:36 | INFO    | html_crawler |   OK https://znews.vn/cong-nghe.html: {'added': 0, 'dup': 34, 'invalid': 0, 'fetch_failed': 0, 'too_old': 19, 'pages_visited': 1}
+2026-04-19 11:22:54 | INFO    | html_crawler |   OK https://znews.vn/giai-tri.html: {'added': 0, 'dup': 50, 'invalid': 0, 'fetch_failed': 0, 'too_old': 18, 'pages_visited': 1}
+2026-04-19 11:22:54 | INFO    | html_crawler | >>> SITE: laodong.vn
+2026-04-19 11:23:11 | INFO    | html_crawler |   OK https://laodong.vn/thoi-su/: {'added': 0, 'dup': 88, 'invalid': 5, 'fetch_failed': 0, 'too_old': 7, 'pages_visited': 6}
+2026-04-19 11:23:30 | INFO    | html_crawler |   OK https://laodong.vn/the-gioi/: {'added': 1, 'dup': 57, 'invalid': 11, 'fetch_failed': 0, 'too_old': 4, 'pages_visited': 4}
+2026-04-19 11:25:04 | INFO    | html_crawler |   OK https://laodong.vn/xa-hoi/: {'added': 3, 'dup': 147, 'invalid': 64, 'fetch_failed': 0, 'too_old': 15, 'pages_visited': 16}
+2026-04-19 11:26:00 | INFO    | html_crawler |   OK https://laodong.vn/phap-luat/: {'added': 6, 'dup': 107, 'invalid': 19, 'fetch_failed': 0, 'too_old': 22, 'pages_visited': 10}
+2026-04-19 11:26:57 | INFO    | html_crawler |   OK https://laodong.vn/kinh-doanh/: {'added': 9, 'dup': 114, 'invalid': 24, 'fetch_failed': 0, 'too_old': 16, 'pages_visited': 10}
+2026-04-19 11:27:58 | INFO    | html_crawler |   OK https://laodong.vn/bat-dong-san/: {'added': 18, 'dup': 47, 'invalid': 8, 'fetch_failed': 0, 'too_old': 32, 'pages_visited': 6}
+2026-04-19 11:28:44 | INFO    | html_crawler |   OK https://laodong.vn/van-hoa/: {'added': 4, 'dup': 22, 'invalid': 13, 'fetch_failed': 0, 'too_old': 28, 'pages_visited': 3}
+2026-04-19 11:29:27 | INFO    | html_crawler |   OK https://laodong.vn/giao-duc/: {'added': 4, 'dup': 47, 'invalid': 19, 'fetch_failed': 0, 'too_old': 17, 'pages_visited': 5}
+2026-04-19 11:30:43 | INFO    | html_crawler |   OK https://laodong.vn/the-thao/: {'added': 38, 'dup': 51, 'invalid': 13, 'fetch_failed': 0, 'too_old': 21, 'pages_visited': 7}
+2026-04-19 11:32:25 | INFO    | html_crawler |   OK https://laodong.vn/suc-khoe/: {'added': 13, 'dup': 44, 'invalid': 60, 'fetch_failed': 0, 'too_old': 24, 'pages_visited': 9}
+2026-04-19 11:32:54 | INFO    | html_crawler |   OK https://laodong.vn/cong-nghe/: {'added': 2, 'dup': 34, 'invalid': 6, 'fetch_failed': 0, 'too_old': 19, 'pages_visited': 3}
+2026-04-19 11:33:28 | INFO    | html_crawler |   OK https://laodong.vn/xe/: {'added': 3, 'dup': 13, 'invalid': 9, 'fetch_failed': 0, 'too_old': 21, 'pages_visited': 2}
+2026-04-19 11:33:31 | INFO    | html_crawler |   OK https://laodong.vn/du-lich/: {'added': 0, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'too_old': 0, 'pages_visited': 3}
+2026-04-19 11:33:31 | INFO    | html_crawler | ============================================================
+2026-04-19 11:33:31 | INFO    | html_crawler | FINAL STATS: {'added': 104, 'dup': 1184, 'invalid': 252, 'fetch_failed': 0, 'too_old': 402, 'pages_visited': 95}
+2026-04-19 11:33:31 | INFO    | html_crawler | Total records in store: 1,672
+2026-04-19 11:33:31 | INFO    | html_crawler | Output: data\html_articles.jsonl
+2026-04-19 11:33:31 | INFO    | html_crawler | ============================================================
+2026-04-19 12:06:30 | INFO    | html_crawler | ============================================================
+2026-04-19 12:06:30 | INFO    | html_crawler | HTML CRAWLER STARTED
+2026-04-19 12:06:30 | INFO    | html_crawler | ============================================================
+2026-04-19 12:06:30 | INFO    | html_crawler | >>> SITE: znews.vn
+2026-04-19 12:06:30 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/xuat-ban.html
+2026-04-19 12:06:30 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/kinh-doanh-tai-chinh.html
+2026-04-19 12:06:30 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/suc-khoe.html
+2026-04-19 12:06:30 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/the-thao.html
+2026-04-19 12:06:30 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/doi-song.html
+2026-04-19 12:06:30 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/cong-nghe.html
+2026-04-19 12:06:30 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/giai-tri.html
+2026-04-19 12:06:30 | INFO    | html_crawler | >>> SITE: laodong.vn
+2026-04-19 12:06:30 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/thoi-su/
+2026-04-19 12:06:30 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/the-gioi/
+2026-04-19 12:06:30 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/xa-hoi/
+2026-04-19 12:06:30 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/phap-luat/
+2026-04-19 12:06:30 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/kinh-doanh/
+2026-04-19 12:06:30 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/bat-dong-san/
+2026-04-19 12:06:30 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/van-hoa/
+2026-04-19 12:06:30 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/giao-duc/
+2026-04-19 12:06:30 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/the-thao/
+2026-04-19 12:06:30 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/suc-khoe/
+2026-04-19 12:06:30 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/cong-nghe/
+2026-04-19 12:06:30 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/xe/
+2026-04-19 12:06:30 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/du-lich/
+2026-04-19 12:06:30 | INFO    | html_crawler | ============================================================
+2026-04-19 12:06:30 | INFO    | html_crawler | FINAL STATS: {'added': 0, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'too_old': 0, 'pages_visited': 0}
+2026-04-19 12:06:30 | INFO    | html_crawler | Total records in store: 1,672
+2026-04-19 12:06:30 | INFO    | html_crawler | Output: data\html_articles.jsonl
+2026-04-19 12:06:30 | INFO    | html_crawler | ============================================================
+2026-04-19 12:07:01 | INFO    | html_crawler | ============================================================
+2026-04-19 12:07:01 | INFO    | html_crawler | HTML CRAWLER STARTED
+2026-04-19 12:07:01 | INFO    | html_crawler | ============================================================
+2026-04-19 12:07:01 | INFO    | html_crawler | >>> SITE: znews.vn
+2026-04-19 12:07:01 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/xuat-ban.html
+2026-04-19 12:07:01 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/kinh-doanh-tai-chinh.html
+2026-04-19 12:07:01 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/suc-khoe.html
+2026-04-19 12:07:01 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/the-thao.html
+2026-04-19 12:07:01 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/doi-song.html
+2026-04-19 12:07:01 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/cong-nghe.html
+2026-04-19 12:07:01 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/giai-tri.html
+2026-04-19 12:07:01 | INFO    | html_crawler | >>> SITE: laodong.vn
+2026-04-19 12:07:01 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/thoi-su/
+2026-04-19 12:07:01 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/the-gioi/
+2026-04-19 12:07:01 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/xa-hoi/
+2026-04-19 12:07:01 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/phap-luat/
+2026-04-19 12:07:01 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/kinh-doanh/
+2026-04-19 12:07:01 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/bat-dong-san/
+2026-04-19 12:07:01 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/van-hoa/
+2026-04-19 12:07:01 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/giao-duc/
+2026-04-19 12:07:01 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/the-thao/
+2026-04-19 12:07:01 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/suc-khoe/
+2026-04-19 12:07:01 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/cong-nghe/
+2026-04-19 12:07:01 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/xe/
+2026-04-19 12:07:01 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/du-lich/
+2026-04-19 12:07:01 | INFO    | html_crawler | ============================================================
+2026-04-19 12:07:01 | INFO    | html_crawler | FINAL STATS: {'added': 0, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'too_old': 0, 'pages_visited': 0}
+2026-04-19 12:07:01 | INFO    | html_crawler | Total records in store: 1,672
+2026-04-19 12:07:01 | INFO    | html_crawler | Output: data\html_articles.jsonl
+2026-04-19 12:07:01 | INFO    | html_crawler | ============================================================
+2026-04-19 12:10:56 | INFO    | html_crawler | ============================================================
+2026-04-19 12:10:56 | INFO    | html_crawler | HTML CRAWLER STARTED
+2026-04-19 12:10:56 | INFO    | html_crawler | ============================================================
+2026-04-19 12:10:56 | INFO    | html_crawler | >>> SITE: znews.vn
+2026-04-19 12:10:56 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/xuat-ban.html
+2026-04-19 12:10:56 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/kinh-doanh-tai-chinh.html
+2026-04-19 12:10:56 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/suc-khoe.html
+2026-04-19 12:10:56 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/the-thao.html
+2026-04-19 12:10:56 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/doi-song.html
+2026-04-19 12:10:56 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/cong-nghe.html
+2026-04-19 12:10:56 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/giai-tri.html
+2026-04-19 12:10:56 | INFO    | html_crawler | >>> SITE: laodong.vn
+2026-04-19 12:10:56 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/thoi-su/
+2026-04-19 12:10:56 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/the-gioi/
+2026-04-19 12:10:56 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/xa-hoi/
+2026-04-19 12:10:56 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/phap-luat/
+2026-04-19 12:10:56 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/kinh-doanh/
+2026-04-19 12:10:56 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/bat-dong-san/
+2026-04-19 12:10:56 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/van-hoa/
+2026-04-19 12:10:56 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/giao-duc/
+2026-04-19 12:10:56 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/the-thao/
+2026-04-19 12:10:56 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/suc-khoe/
+2026-04-19 12:10:56 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/cong-nghe/
+2026-04-19 12:10:56 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/xe/
+2026-04-19 12:10:56 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/du-lich/
+2026-04-19 12:10:56 | INFO    | html_crawler | ============================================================
+2026-04-19 12:10:56 | INFO    | html_crawler | FINAL STATS: {'added': 0, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'too_old': 0, 'pages_visited': 0}
+2026-04-19 12:10:56 | INFO    | html_crawler | Total records in store: 1,672
+2026-04-19 12:10:56 | INFO    | html_crawler | Output: data\html_articles.jsonl
+2026-04-19 12:10:56 | INFO    | html_crawler | ============================================================
+2026-04-19 12:42:16 | INFO    | html_crawler | ============================================================
+2026-04-19 12:42:16 | INFO    | html_crawler | HTML CRAWLER STARTED
+2026-04-19 12:42:16 | INFO    | html_crawler | ============================================================
+2026-04-19 12:42:16 | INFO    | html_crawler | >>> SITE: znews.vn
+2026-04-19 12:42:16 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/xuat-ban.html
+2026-04-19 12:42:16 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/kinh-doanh-tai-chinh.html
+2026-04-19 12:42:16 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/suc-khoe.html
+2026-04-19 12:42:16 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/the-thao.html
+2026-04-19 12:42:16 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/doi-song.html
+2026-04-19 12:42:16 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/cong-nghe.html
+2026-04-19 12:42:16 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/giai-tri.html
+2026-04-19 12:42:16 | INFO    | html_crawler | >>> SITE: laodong.vn
+2026-04-19 12:42:16 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/thoi-su/
+2026-04-19 12:42:16 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/the-gioi/
+2026-04-19 12:42:16 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/xa-hoi/
+2026-04-19 12:42:16 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/phap-luat/
+2026-04-19 12:42:16 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/kinh-doanh/
+2026-04-19 12:42:16 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/bat-dong-san/
+2026-04-19 12:42:16 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/van-hoa/
+2026-04-19 12:42:16 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/giao-duc/
+2026-04-19 12:42:16 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/the-thao/
+2026-04-19 12:42:16 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/suc-khoe/
+2026-04-19 12:42:16 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/cong-nghe/
+2026-04-19 12:42:16 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/xe/
+2026-04-19 12:42:16 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/du-lich/
+2026-04-19 12:42:16 | INFO    | html_crawler | ============================================================
+2026-04-19 12:42:16 | INFO    | html_crawler | FINAL STATS: {'added': 0, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'too_old': 0, 'pages_visited': 0}
+2026-04-19 12:42:16 | INFO    | html_crawler | Total records in store: 1,672
+2026-04-19 12:42:16 | INFO    | html_crawler | Output: data\html_articles.jsonl
+2026-04-19 12:42:16 | INFO    | html_crawler | ============================================================
+2026-04-19 12:49:12 | INFO    | html_crawler | ============================================================
+2026-04-19 12:49:12 | INFO    | html_crawler | HTML CRAWLER STARTED
+2026-04-19 12:49:12 | INFO    | html_crawler | ============================================================
+2026-04-19 12:49:12 | INFO    | html_crawler | >>> SITE: znews.vn
+2026-04-19 12:52:33 | INFO    | html_crawler | ============================================================
+2026-04-19 12:52:33 | INFO    | html_crawler | HTML CRAWLER STARTED
+2026-04-19 12:52:33 | INFO    | html_crawler | ============================================================
+2026-04-19 12:52:33 | INFO    | html_crawler | >>> SITE: znews.vn
+2026-04-19 12:52:39 | INFO    | html_crawler |   OK https://znews.vn/xuat-ban.html: {'added': 0, 'dup': 50, 'invalid': 0, 'fetch_failed': 0, 'too_old': 6, 'pages_visited': 1}
+2026-04-19 12:55:26 | INFO    | html_crawler |   OK https://znews.vn/kinh-doanh-tai-chinh.html: {'added': 82, 'dup': 143, 'invalid': 0, 'fetch_failed': 0, 'too_old': 84, 'pages_visited': 6}
+2026-04-19 12:55:44 | INFO    | html_crawler |   OK https://znews.vn/suc-khoe.html: {'added': 0, 'dup': 50, 'invalid': 0, 'fetch_failed': 0, 'too_old': 18, 'pages_visited': 1}
+2026-04-19 12:59:46 | INFO    | html_crawler |   OK https://znews.vn/the-thao.html: {'added': 149, 'dup': 226, 'invalid': 0, 'fetch_failed': 0, 'too_old': 93, 'pages_visited': 10}
+2026-04-19 13:01:13 | INFO    | html_crawler |   OK https://znews.vn/doi-song.html: {'added': 35, 'dup': 47, 'invalid': 1, 'fetch_failed': 0, 'too_old': 52, 'pages_visited': 3}
+2026-04-19 13:03:08 | INFO    | html_crawler |   OK https://znews.vn/cong-nghe.html: {'added': 21, 'dup': 34, 'invalid': 0, 'fetch_failed': 0, 'too_old': 96, 'pages_visited': 3}
+2026-04-19 13:05:20 | INFO    | html_crawler |   OK https://znews.vn/giai-tri.html: {'added': 56, 'dup': 84, 'invalid': 0, 'fetch_failed': 0, 'too_old': 78, 'pages_visited': 4}
+2026-04-19 13:05:20 | INFO    | html_crawler | >>> SITE: laodong.vn
+2026-04-19 13:06:04 | INFO    | html_crawler |   OK https://laodong.vn/thoi-su/: {'added': 19, 'dup': 91, 'invalid': 5, 'fetch_failed': 0, 'too_old': 15, 'pages_visited': 8}
+2026-04-19 13:07:27 | INFO    | html_crawler |   OK https://laodong.vn/the-gioi/: {'added': 37, 'dup': 53, 'invalid': 17, 'fetch_failed': 0, 'too_old': 25, 'pages_visited': 8}
+2026-04-19 13:10:10 | INFO    | html_crawler |   OK https://laodong.vn/xa-hoi/: {'added': 44, 'dup': 167, 'invalid': 79, 'fetch_failed': 0, 'too_old': 24, 'pages_visited': 21}
+2026-04-19 13:11:45 | INFO    | html_crawler |   OK https://laodong.vn/phap-luat/: {'added': 41, 'dup': 119, 'invalid': 26, 'fetch_failed': 0, 'too_old': 19, 'pages_visited': 14}
+2026-04-19 13:13:42 | INFO    | html_crawler |   OK https://laodong.vn/kinh-doanh/: {'added': 38, 'dup': 122, 'invalid': 35, 'fetch_failed': 0, 'too_old': 33, 'pages_visited': 15}
+2026-04-19 13:13:55 | INFO    | html_crawler |   OK https://laodong.vn/bat-dong-san/: {'added': 0, 'dup': 20, 'invalid': 5, 'fetch_failed': 0, 'too_old': 8, 'pages_visited': 1}
+2026-04-19 13:14:54 | INFO    | html_crawler |   OK https://laodong.vn/van-hoa/: {'added': 21, 'dup': 25, 'invalid': 17, 'fetch_failed': 0, 'too_old': 19, 'pages_visited': 4}
+2026-04-19 13:15:50 | INFO    | html_crawler |   OK https://laodong.vn/giao-duc/: {'added': 14, 'dup': 50, 'invalid': 21, 'fetch_failed': 0, 'too_old': 17, 'pages_visited': 6}
+2026-04-19 13:17:31 | INFO    | html_crawler |   OK https://laodong.vn/the-thao/: {'added': 57, 'dup': 90, 'invalid': 18, 'fetch_failed': 0, 'too_old': 18, 'pages_visited': 12}
+2026-04-19 13:20:25 | INFO    | html_crawler |   OK https://laodong.vn/suc-khoe/: {'added': 52, 'dup': 52, 'invalid': 94, 'fetch_failed': 0, 'too_old': 22, 'pages_visited': 14}
+2026-04-19 13:21:24 | INFO    | html_crawler |   OK https://laodong.vn/cong-nghe/: {'added': 28, 'dup': 35, 'invalid': 8, 'fetch_failed': 0, 'too_old': 20, 'pages_visited': 5}
+2026-04-19 13:22:24 | INFO    | html_crawler |   OK https://laodong.vn/xe/: {'added': 16, 'dup': 18, 'invalid': 15, 'fetch_failed': 0, 'too_old': 27, 'pages_visited': 4}
+2026-04-19 13:22:27 | INFO    | html_crawler |   OK https://laodong.vn/du-lich/: {'added': 0, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'too_old': 0, 'pages_visited': 3}
+2026-04-19 13:22:27 | INFO    | html_crawler | ============================================================
+2026-04-19 13:22:27 | INFO    | html_crawler | FINAL STATS: {'added': 710, 'dup': 1476, 'invalid': 341, 'fetch_failed': 0, 'too_old': 674, 'pages_visited': 143}
+2026-04-19 13:22:27 | INFO    | html_crawler | Total records in store: 2,384
+2026-04-19 13:22:27 | INFO    | html_crawler | Output: data\html_articles.jsonl
+2026-04-19 13:22:27 | INFO    | html_crawler | ============================================================
+2026-05-01 16:45:18 | INFO    | html_crawler | ============================================================
+2026-05-01 16:45:18 | INFO    | html_crawler | HTML CRAWLER STARTED
+2026-05-01 16:45:18 | INFO    | html_crawler | ============================================================
+2026-05-01 16:45:18 | INFO    | html_crawler | >>> SITE: znews.vn
+2026-05-01 16:45:18 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/xuat-ban.html
+2026-05-01 16:45:18 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/kinh-doanh-tai-chinh.html
+2026-05-01 16:45:18 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/suc-khoe.html
+2026-05-01 16:45:18 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/the-thao.html
+2026-05-01 16:45:18 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/doi-song.html
+2026-05-01 16:45:18 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/cong-nghe.html
+2026-05-01 16:45:18 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/giai-tri.html
+2026-05-01 16:45:18 | INFO    | html_crawler | >>> SITE: laodong.vn
+2026-05-01 16:45:18 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/thoi-su/
+2026-05-01 16:45:18 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/the-gioi/
+2026-05-01 16:45:18 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/xa-hoi/
+2026-05-01 16:45:18 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/phap-luat/
+2026-05-01 16:45:18 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/kinh-doanh/
+2026-05-01 16:45:18 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/bat-dong-san/
+2026-05-01 16:45:18 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/van-hoa/
+2026-05-01 16:45:18 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/giao-duc/
+2026-05-01 16:45:18 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/the-thao/
+2026-05-01 16:45:18 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/suc-khoe/
+2026-05-01 16:45:18 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/cong-nghe/
+2026-05-01 16:45:18 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/xe/
+2026-05-01 16:45:18 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/du-lich/
+2026-05-01 16:45:18 | INFO    | html_crawler | >>> SITE: dantri.com.vn
+2026-05-01 16:45:38 | INFO    | html_crawler |   OK https://dantri.com.vn/tin-moi-nhat.htm: {'added': 0, 'dup': 0, 'invalid': 17, 'fetch_failed': 0, 'too_old': 1, 'pages_visited': 4}
+2026-05-01 16:50:34 | INFO    | html_crawler | ============================================================
+2026-05-01 16:50:34 | INFO    | html_crawler | HTML CRAWLER STARTED
+2026-05-01 16:50:34 | INFO    | html_crawler | ============================================================
+2026-05-01 16:50:35 | INFO    | html_crawler | >>> SITE: znews.vn
+2026-05-01 16:50:35 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/xuat-ban.html
+2026-05-01 16:50:35 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/kinh-doanh-tai-chinh.html
+2026-05-01 16:50:35 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/suc-khoe.html
+2026-05-01 16:50:35 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/the-thao.html
+2026-05-01 16:50:35 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/doi-song.html
+2026-05-01 16:50:35 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/cong-nghe.html
+2026-05-01 16:50:35 | INFO    | html_crawler |   SKIP (already done in last 6h): https://znews.vn/giai-tri.html
+2026-05-01 16:50:35 | INFO    | html_crawler | >>> SITE: laodong.vn
+2026-05-01 16:50:35 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/thoi-su/
+2026-05-01 16:50:35 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/the-gioi/
+2026-05-01 16:50:35 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/xa-hoi/
+2026-05-01 16:50:35 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/phap-luat/
+2026-05-01 16:50:35 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/kinh-doanh/
+2026-05-01 16:50:35 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/bat-dong-san/
+2026-05-01 16:50:35 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/van-hoa/
+2026-05-01 16:50:35 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/giao-duc/
+2026-05-01 16:50:35 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/the-thao/
+2026-05-01 16:50:35 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/suc-khoe/
+2026-05-01 16:50:35 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/cong-nghe/
+2026-05-01 16:50:35 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/xe/
+2026-05-01 16:50:35 | INFO    | html_crawler |   SKIP (already done in last 6h): https://laodong.vn/du-lich/
+2026-05-01 16:50:35 | INFO    | html_crawler | >>> SITE: dantri.com.vn
+2026-05-01 16:50:55 | INFO    | html_crawler |   OK https://dantri.com.vn/tin-moi-nhat.htm: {'added': 17, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'too_old': 1, 'pages_visited': 4}
+2026-05-01 16:56:16 | INFO    | html_crawler |   OK https://dantri.com.vn/the-gioi.htm: {'added': 167, 'dup': 1, 'invalid': 2, 'fetch_failed': 0, 'too_old': 157, 'pages_visited': 10}
+2026-05-01 17:10:15 | INFO    | html_crawler |   OK https://dantri.com.vn/thoi-su.htm: {'added': 368, 'dup': 4, 'invalid': 17, 'fetch_failed': 0, 'too_old': 473, 'pages_visited': 21}
+2026-05-01 17:14:48 | INFO    | html_crawler |   OK https://dantri.com.vn/phap-luat.htm: {'added': 123, 'dup': 3, 'invalid': 2, 'fetch_failed': 0, 'too_old': 153, 'pages_visited': 8}
+2026-05-01 17:19:10 | INFO    | html_crawler |   OK https://dantri.com.vn/suc-khoe.htm: {'added': 68, 'dup': 1, 'invalid': 0, 'fetch_failed': 0, 'too_old': 203, 'pages_visited': 5}
+2026-05-01 17:21:42 | INFO    | html_crawler |   OK https://dantri.com.vn/doi-song.htm: {'added': 51, 'dup': 2, 'invalid': 1, 'fetch_failed': 0, 'too_old': 105, 'pages_visited': 4}
+2026-05-01 17:24:51 | INFO    | html_crawler |   OK https://dantri.com.vn/du-lich.htm: {'added': 58, 'dup': 5, 'invalid': 0, 'fetch_failed': 0, 'too_old': 137, 'pages_visited': 5}
+2026-05-01 17:31:27 | INFO    | html_crawler |   OK https://dantri.com.vn/kinh-doanh.htm: {'added': 162, 'dup': 6, 'invalid': 0, 'fetch_failed': 0, 'too_old': 244, 'pages_visited': 10}
+2026-05-01 17:34:45 | INFO    | html_crawler |   OK https://dantri.com.vn/bat-dong-san.htm: {'added': 54, 'dup': 4, 'invalid': 0, 'fetch_failed': 0, 'too_old': 150, 'pages_visited': 5}
+2026-05-01 17:39:38 | INFO    | html_crawler |   OK https://dantri.com.vn/the-thao.htm: {'added': 116, 'dup': 1, 'invalid': 0, 'fetch_failed': 0, 'too_old': 186, 'pages_visited': 7}
+2026-05-01 17:42:31 | INFO    | html_crawler |   OK https://dantri.com.vn/giai-tri.htm: {'added': 67, 'dup': 1, 'invalid': 0, 'fetch_failed': 0, 'too_old': 110, 'pages_visited': 4}
+2026-05-01 17:46:31 | INFO    | html_crawler |   OK https://dantri.com.vn/giao-duc.htm: {'added': 73, 'dup': 2, 'invalid': 0, 'fetch_failed': 0, 'too_old': 173, 'pages_visited': 6}
+2026-05-01 17:49:01 | INFO    | html_crawler |   OK https://dantri.com.vn/o-to-xe-may.htm: {'added': 47, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'too_old': 107, 'pages_visited': 4}
+2026-05-01 17:51:32 | INFO    | html_crawler |   OK https://dantri.com.vn/noi-vu.htm: {'added': 42, 'dup': 4, 'invalid': 0, 'fetch_failed': 0, 'too_old': 113, 'pages_visited': 4}
+2026-05-01 17:53:35 | INFO    | html_crawler |   OK https://dantri.com.vn/cong-nghe.htm: {'added': 44, 'dup': 0, 'invalid': 0, 'fetch_failed': 0, 'too_old': 81, 'pages_visited': 4}
+2026-05-01 17:53:35 | INFO    | html_crawler | ============================================================
+2026-05-01 17:53:35 | INFO    | html_crawler | FINAL STATS: {'added': 1457, 'dup': 34, 'invalid': 22, 'fetch_failed': 0, 'too_old': 2393, 'pages_visited': 101}
+2026-05-01 17:53:35 | INFO    | html_crawler | Total records in store: 10,050
+2026-05-01 17:53:35 | INFO    | html_crawler | Output: data\html_articles.jsonl
+2026-05-01 17:53:35 | INFO    | html_crawler | ============================================================

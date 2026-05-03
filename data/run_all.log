@@ -1,0 +1,238 @@
+2026-04-18 22:14:14 | INFO    | run_all | ======================================================================
+2026-04-18 22:14:14 | INFO    | run_all | NEWS CRAWLER PIPELINE
+2026-04-18 22:14:14 | INFO    | run_all | ======================================================================
+2026-04-18 22:14:14 | INFO    | run_all | Start date    : 2026-01-14
+2026-04-18 22:14:14 | INFO    | run_all | Enrich RSS    : True
+2026-04-18 22:14:14 | INFO    | run_all | Max pages/cat : 50
+2026-04-18 22:14:14 | INFO    | run_all | Output dir    : data
+2026-04-18 22:14:14 | INFO    | run_all | RSS feeds     : 109
+2026-04-18 22:14:14 | INFO    | run_all | HTML sites    : ['24h.com.vn', 'znews.vn', 'laodong.vn']
+2026-04-18 22:14:14 | INFO    | run_all | ======================================================================
+2026-04-18 22:14:14 | INFO    | run_all | >>> RUNNING RSS CRAWLER
+2026-04-19 00:40:51 | INFO    | run_all | >>> RUNNING HTML CRAWLER
+2026-04-19 00:56:16 | INFO    | run_all | ======================================================================
+2026-04-19 00:56:16 | INFO    | run_all | PIPELINE FINISHED
+2026-04-19 00:56:16 | INFO    | run_all | ======================================================================
+2026-04-19 02:03:50 | INFO    | run_all | ======================================================================
+2026-04-19 02:03:50 | INFO    | run_all | NEWS CRAWLER PIPELINE
+2026-04-19 02:03:50 | INFO    | run_all | ======================================================================
+2026-04-19 02:03:50 | INFO    | run_all | Start date    : 2026-04-15
+2026-04-19 02:03:50 | INFO    | run_all | Enrich RSS    : True
+2026-04-19 02:03:50 | INFO    | run_all | Max pages/cat : 50
+2026-04-19 02:03:50 | INFO    | run_all | Output dir    : data
+2026-04-19 02:03:50 | INFO    | run_all | RSS feeds     : 109
+2026-04-19 02:03:50 | INFO    | run_all | HTML sites    : ['24h.com.vn', 'znews.vn', 'laodong.vn']
+2026-04-19 02:03:50 | INFO    | run_all | ======================================================================
+2026-04-19 02:03:50 | INFO    | run_all | >>> RUNNING RSS CRAWLER
+2026-04-19 02:06:44 | INFO    | run_all | >>> RUNNING HTML CRAWLER
+2026-04-19 02:33:41 | INFO    | run_all | ======================================================================
+2026-04-19 02:33:41 | INFO    | run_all | NEWS CRAWLER PIPELINE
+2026-04-19 02:33:41 | INFO    | run_all | ======================================================================
+2026-04-19 02:33:41 | INFO    | run_all | Start date    : 2026-04-15
+2026-04-19 02:33:41 | INFO    | run_all | Enrich RSS    : True
+2026-04-19 02:33:41 | INFO    | run_all | Max pages/cat : 50
+2026-04-19 02:33:41 | INFO    | run_all | Output dir    : data
+2026-04-19 02:33:41 | INFO    | run_all | RSS feeds     : 109
+2026-04-19 02:33:41 | INFO    | run_all | HTML sites    : ['24h.com.vn', 'znews.vn', 'laodong.vn']
+2026-04-19 02:33:41 | INFO    | run_all | ======================================================================
+2026-04-19 02:33:41 | INFO    | run_all | >>> RUNNING HTML CRAWLER
+2026-04-19 02:34:54 | INFO    | run_all | ======================================================================
+2026-04-19 02:34:54 | INFO    | run_all | NEWS CRAWLER PIPELINE
+2026-04-19 02:34:54 | INFO    | run_all | ======================================================================
+2026-04-19 02:34:54 | INFO    | run_all | Start date    : 2026-04-15
+2026-04-19 02:34:54 | INFO    | run_all | Enrich RSS    : True
+2026-04-19 02:34:54 | INFO    | run_all | Max pages/cat : 50
+2026-04-19 02:34:54 | INFO    | run_all | Output dir    : data
+2026-04-19 02:34:54 | INFO    | run_all | RSS feeds     : 109
+2026-04-19 02:34:54 | INFO    | run_all | HTML sites    : ['24h.com.vn', 'znews.vn', 'laodong.vn']
+2026-04-19 02:34:54 | INFO    | run_all | ======================================================================
+2026-04-19 02:34:54 | INFO    | run_all | >>> RUNNING HTML CRAWLER
+2026-04-19 02:38:31 | INFO    | run_all | ======================================================================
+2026-04-19 02:38:31 | INFO    | run_all | NEWS CRAWLER PIPELINE
+2026-04-19 02:38:31 | INFO    | run_all | ======================================================================
+2026-04-19 02:38:31 | INFO    | run_all | Start date    : 2026-04-15
+2026-04-19 02:38:31 | INFO    | run_all | Enrich RSS    : True
+2026-04-19 02:38:31 | INFO    | run_all | Max pages/cat : 50
+2026-04-19 02:38:31 | INFO    | run_all | Output dir    : data
+2026-04-19 02:38:31 | INFO    | run_all | RSS feeds     : 109
+2026-04-19 02:38:31 | INFO    | run_all | HTML sites    : ['24h.com.vn', 'znews.vn', 'laodong.vn']
+2026-04-19 02:38:31 | INFO    | run_all | ======================================================================
+2026-04-19 02:38:31 | INFO    | run_all | >>> RUNNING HTML CRAWLER
+2026-04-19 02:42:55 | INFO    | run_all | ======================================================================
+2026-04-19 02:42:55 | INFO    | run_all | NEWS CRAWLER PIPELINE
+2026-04-19 02:42:55 | INFO    | run_all | ======================================================================
+2026-04-19 02:42:55 | INFO    | run_all | Start date    : 2026-04-15
+2026-04-19 02:42:55 | INFO    | run_all | Enrich RSS    : True
+2026-04-19 02:42:55 | INFO    | run_all | Max pages/cat : 50
+2026-04-19 02:42:55 | INFO    | run_all | Output dir    : data
+2026-04-19 02:42:55 | INFO    | run_all | RSS feeds     : 109
+2026-04-19 02:42:55 | INFO    | run_all | HTML sites    : ['24h.com.vn', 'znews.vn', 'laodong.vn']
+2026-04-19 02:42:55 | INFO    | run_all | ======================================================================
+2026-04-19 02:42:55 | INFO    | run_all | >>> RUNNING HTML CRAWLER
+2026-04-19 03:00:34 | INFO    | run_all | ======================================================================
+2026-04-19 03:00:34 | INFO    | run_all | PIPELINE FINISHED
+2026-04-19 03:00:34 | INFO    | run_all | ======================================================================
+2026-04-19 10:52:12 | INFO    | run_all | ======================================================================
+2026-04-19 10:52:12 | INFO    | run_all | NEWS CRAWLER PIPELINE
+2026-04-19 10:52:12 | INFO    | run_all | ======================================================================
+2026-04-19 10:52:12 | INFO    | run_all | Start date    : 2026-04-15
+2026-04-19 10:52:12 | INFO    | run_all | Enrich RSS    : True
+2026-04-19 10:52:12 | INFO    | run_all | Max pages/cat : 50
+2026-04-19 10:52:12 | INFO    | run_all | Output dir    : data
+2026-04-19 10:52:12 | INFO    | run_all | RSS feeds     : 109
+2026-04-19 10:52:12 | INFO    | run_all | HTML sites    : ['24h.com.vn', 'znews.vn', 'laodong.vn']
+2026-04-19 10:52:12 | INFO    | run_all | ======================================================================
+2026-04-19 10:52:12 | INFO    | run_all | >>> RUNNING RSS CRAWLER
+2026-04-19 11:01:31 | INFO    | run_all | >>> RUNNING HTML CRAWLER
+2026-04-19 11:17:07 | INFO    | run_all | ======================================================================
+2026-04-19 11:17:07 | INFO    | run_all | NEWS CRAWLER PIPELINE
+2026-04-19 11:17:07 | INFO    | run_all | ======================================================================
+2026-04-19 11:17:07 | INFO    | run_all | Start date    : 2026-04-15
+2026-04-19 11:17:07 | INFO    | run_all | Enrich RSS    : True
+2026-04-19 11:17:07 | INFO    | run_all | Max pages/cat : 50
+2026-04-19 11:17:07 | INFO    | run_all | Output dir    : data
+2026-04-19 11:17:07 | INFO    | run_all | RSS feeds     : 98
+2026-04-19 11:17:07 | INFO    | run_all | HTML sites    : ['24h.com.vn', 'znews.vn', 'laodong.vn']
+2026-04-19 11:17:07 | INFO    | run_all | ======================================================================
+2026-04-19 11:17:07 | INFO    | run_all | >>> RUNNING RSS CRAWLER
+2026-04-19 11:19:51 | INFO    | run_all | >>> RUNNING HTML CRAWLER
+2026-04-19 11:33:31 | INFO    | run_all | ======================================================================
+2026-04-19 11:33:31 | INFO    | run_all | PIPELINE FINISHED
+2026-04-19 11:33:31 | INFO    | run_all | ======================================================================
+2026-04-19 12:06:30 | INFO    | run_all | ======================================================================
+2026-04-19 12:06:30 | INFO    | run_all | NEWS CRAWLER PIPELINE
+2026-04-19 12:06:30 | INFO    | run_all | ======================================================================
+2026-04-19 12:06:30 | INFO    | run_all | Start date    : 2026-04-15
+2026-04-19 12:06:30 | INFO    | run_all | Enrich RSS    : True
+2026-04-19 12:06:30 | INFO    | run_all | Max pages/cat : 50
+2026-04-19 12:06:30 | INFO    | run_all | Output dir    : data
+2026-04-19 12:06:30 | INFO    | run_all | RSS feeds     : 98
+2026-04-19 12:06:30 | INFO    | run_all | HTML sites    : ['24h.com.vn', 'znews.vn', 'laodong.vn']
+2026-04-19 12:06:30 | INFO    | run_all | ======================================================================
+2026-04-19 12:06:30 | INFO    | run_all | >>> RUNNING RSS CRAWLER
+2026-04-19 12:06:30 | INFO    | run_all | >>> RUNNING HTML CRAWLER
+2026-04-19 12:06:30 | INFO    | run_all | >>> BUILDING FINAL DATASET
+2026-04-19 12:06:31 | INFO    | run_all | ======================================================================
+2026-04-19 12:06:31 | INFO    | run_all | PIPELINE FINISHED
+2026-04-19 12:06:31 | INFO    | run_all | ======================================================================
+2026-04-19 12:07:00 | INFO    | run_all | ======================================================================
+2026-04-19 12:07:00 | INFO    | run_all | NEWS CRAWLER PIPELINE
+2026-04-19 12:07:00 | INFO    | run_all | ======================================================================
+2026-04-19 12:07:00 | INFO    | run_all | Start date    : 2026-04-12
+2026-04-19 12:07:00 | INFO    | run_all | Enrich RSS    : True
+2026-04-19 12:07:00 | INFO    | run_all | Max pages/cat : 50
+2026-04-19 12:07:00 | INFO    | run_all | Output dir    : data
+2026-04-19 12:07:00 | INFO    | run_all | RSS feeds     : 98
+2026-04-19 12:07:00 | INFO    | run_all | HTML sites    : ['24h.com.vn', 'znews.vn', 'laodong.vn']
+2026-04-19 12:07:00 | INFO    | run_all | ======================================================================
+2026-04-19 12:07:00 | INFO    | run_all | >>> RUNNING RSS CRAWLER
+2026-04-19 12:07:01 | INFO    | run_all | >>> RUNNING HTML CRAWLER
+2026-04-19 12:07:01 | INFO    | run_all | >>> BUILDING FINAL DATASET
+2026-04-19 12:07:02 | INFO    | run_all | ======================================================================
+2026-04-19 12:07:02 | INFO    | run_all | PIPELINE FINISHED
+2026-04-19 12:07:02 | INFO    | run_all | ======================================================================
+2026-04-19 12:10:55 | INFO    | run_all | ======================================================================
+2026-04-19 12:10:55 | INFO    | run_all | NEWS CRAWLER PIPELINE
+2026-04-19 12:10:55 | INFO    | run_all | ======================================================================
+2026-04-19 12:10:55 | INFO    | run_all | Start date    : 2026-04-12
+2026-04-19 12:10:55 | INFO    | run_all | Enrich RSS    : True
+2026-04-19 12:10:55 | INFO    | run_all | Max pages/cat : 50
+2026-04-19 12:10:55 | INFO    | run_all | Output dir    : data
+2026-04-19 12:10:55 | INFO    | run_all | RSS feeds     : 98
+2026-04-19 12:10:55 | INFO    | run_all | HTML sites    : ['24h.com.vn', 'znews.vn', 'laodong.vn']
+2026-04-19 12:10:55 | INFO    | run_all | ======================================================================
+2026-04-19 12:10:55 | INFO    | run_all | >>> RUNNING RSS CRAWLER
+2026-04-19 12:10:56 | INFO    | run_all | >>> RUNNING HTML CRAWLER
+2026-04-19 12:10:56 | INFO    | run_all | >>> BUILDING FINAL DATASET
+2026-04-19 12:10:57 | INFO    | run_all | ======================================================================
+2026-04-19 12:10:57 | INFO    | run_all | PIPELINE FINISHED
+2026-04-19 12:10:57 | INFO    | run_all | ======================================================================
+2026-04-19 12:42:16 | INFO    | run_all | ======================================================================
+2026-04-19 12:42:16 | INFO    | run_all | NEWS CRAWLER PIPELINE
+2026-04-19 12:42:16 | INFO    | run_all | ======================================================================
+2026-04-19 12:42:16 | INFO    | run_all | Start date    : 2026-04-12
+2026-04-19 12:42:16 | INFO    | run_all | Enrich RSS    : True
+2026-04-19 12:42:16 | INFO    | run_all | Max pages/cat : 50
+2026-04-19 12:42:16 | INFO    | run_all | Output dir    : data
+2026-04-19 12:42:16 | INFO    | run_all | RSS feeds     : 98
+2026-04-19 12:42:16 | INFO    | run_all | HTML sites    : ['24h.com.vn', 'znews.vn', 'laodong.vn']
+2026-04-19 12:42:16 | INFO    | run_all | ======================================================================
+2026-04-19 12:42:16 | INFO    | run_all | >>> RUNNING RSS CRAWLER
+2026-04-19 12:42:16 | INFO    | run_all | >>> RUNNING HTML CRAWLER
+2026-04-19 12:42:16 | INFO    | run_all | >>> BUILDING FINAL DATASET
+2026-04-19 12:42:17 | INFO    | run_all | ======================================================================
+2026-04-19 12:42:17 | INFO    | run_all | PIPELINE FINISHED
+2026-04-19 12:42:17 | INFO    | run_all | ======================================================================
+2026-04-19 12:42:47 | INFO    | run_all | ======================================================================
+2026-04-19 12:42:47 | INFO    | run_all | NEWS CRAWLER PIPELINE
+2026-04-19 12:42:47 | INFO    | run_all | ======================================================================
+2026-04-19 12:42:47 | INFO    | run_all | Start date    : 2026-04-12
+2026-04-19 12:42:47 | INFO    | run_all | Enrich RSS    : True
+2026-04-19 12:42:47 | INFO    | run_all | Max pages/cat : 50
+2026-04-19 12:42:47 | INFO    | run_all | Output dir    : data
+2026-04-19 12:42:47 | INFO    | run_all | RSS feeds     : 98
+2026-04-19 12:42:47 | INFO    | run_all | HTML sites    : ['24h.com.vn', 'znews.vn', 'laodong.vn']
+2026-04-19 12:42:47 | INFO    | run_all | ======================================================================
+2026-04-19 12:42:47 | INFO    | run_all | >>> RUNNING RSS CRAWLER
+2026-04-19 12:48:58 | INFO    | run_all | ======================================================================
+2026-04-19 12:48:58 | INFO    | run_all | NEWS CRAWLER PIPELINE
+2026-04-19 12:48:58 | INFO    | run_all | ======================================================================
+2026-04-19 12:48:58 | INFO    | run_all | Start date    : 2026-04-12
+2026-04-19 12:48:58 | INFO    | run_all | Enrich RSS    : True
+2026-04-19 12:48:58 | INFO    | run_all | Max pages/cat : 50
+2026-04-19 12:48:58 | INFO    | run_all | Output dir    : data
+2026-04-19 12:48:58 | INFO    | run_all | RSS feeds     : 98
+2026-04-19 12:48:58 | INFO    | run_all | HTML sites    : ['24h.com.vn', 'znews.vn', 'laodong.vn']
+2026-04-19 12:48:58 | INFO    | run_all | ======================================================================
+2026-04-19 12:48:58 | INFO    | run_all | >>> RUNNING RSS CRAWLER
+2026-04-19 12:49:12 | INFO    | run_all | >>> RUNNING HTML CRAWLER
+2026-04-19 12:50:16 | INFO    | run_all | ======================================================================
+2026-04-19 12:50:16 | INFO    | run_all | NEWS CRAWLER PIPELINE
+2026-04-19 12:50:16 | INFO    | run_all | ======================================================================
+2026-04-19 12:50:16 | INFO    | run_all | Start date    : 2026-04-12
+2026-04-19 12:50:16 | INFO    | run_all | Enrich RSS    : True
+2026-04-19 12:50:16 | INFO    | run_all | Max pages/cat : 50
+2026-04-19 12:50:16 | INFO    | run_all | Output dir    : data
+2026-04-19 12:50:16 | INFO    | run_all | RSS feeds     : 98
+2026-04-19 12:50:16 | INFO    | run_all | HTML sites    : ['24h.com.vn', 'znews.vn', 'laodong.vn']
+2026-04-19 12:50:16 | INFO    | run_all | ======================================================================
+2026-04-19 12:50:16 | INFO    | run_all | >>> RUNNING RSS CRAWLER
+2026-04-19 12:52:33 | INFO    | run_all | >>> RUNNING HTML CRAWLER
+2026-04-19 13:22:27 | INFO    | run_all | >>> BUILDING FINAL DATASET
+2026-04-19 13:22:28 | INFO    | run_all | ======================================================================
+2026-04-19 13:22:28 | INFO    | run_all | PIPELINE FINISHED
+2026-04-19 13:22:28 | INFO    | run_all | ======================================================================
+2026-05-01 16:45:17 | INFO    | run_all | ======================================================================
+2026-05-01 16:45:17 | INFO    | run_all | NEWS CRAWLER PIPELINE
+2026-05-01 16:45:17 | INFO    | run_all | ======================================================================
+2026-05-01 16:45:17 | INFO    | run_all | Start date    : 2026-04-24
+2026-05-01 16:45:17 | INFO    | run_all | Enrich RSS    : True
+2026-05-01 16:45:17 | INFO    | run_all | Max pages/cat : 50
+2026-05-01 16:45:17 | INFO    | run_all | Output dir    : data
+2026-05-01 16:45:17 | INFO    | run_all | RSS feeds     : 88
+2026-05-01 16:45:17 | INFO    | run_all | HTML sites    : ['24h.com.vn', 'znews.vn', 'laodong.vn', 'dantri.com.vn']
+2026-05-01 16:45:17 | INFO    | run_all | ======================================================================
+2026-05-01 16:45:17 | INFO    | run_all | >>> RUNNING RSS CRAWLER
+2026-05-01 16:45:18 | INFO    | run_all | >>> RUNNING HTML CRAWLER
+2026-05-01 16:50:33 | INFO    | run_all | ======================================================================
+2026-05-01 16:50:33 | INFO    | run_all | NEWS CRAWLER PIPELINE
+2026-05-01 16:50:33 | INFO    | run_all | ======================================================================
+2026-05-01 16:50:33 | INFO    | run_all | Start date    : 2026-04-24
+2026-05-01 16:50:33 | INFO    | run_all | Enrich RSS    : True
+2026-05-01 16:50:33 | INFO    | run_all | Max pages/cat : 50
+2026-05-01 16:50:33 | INFO    | run_all | Output dir    : data
+2026-05-01 16:50:33 | INFO    | run_all | RSS feeds     : 88
+2026-05-01 16:50:33 | INFO    | run_all | HTML sites    : ['24h.com.vn', 'znews.vn', 'laodong.vn', 'dantri.com.vn']
+2026-05-01 16:50:33 | INFO    | run_all | ======================================================================
+2026-05-01 16:50:33 | INFO    | run_all | >>> RUNNING RSS CRAWLER
+2026-05-01 16:50:34 | INFO    | run_all | >>> RUNNING HTML CRAWLER
+2026-05-01 17:53:35 | INFO    | run_all | >>> BUILDING FINAL DATASET
+2026-05-01 17:53:39 | INFO    | run_all | >>> RUNNING CLEANUP (pre_dataset/01_cleanup.py)
+2026-05-01 17:53:39 | INFO    | run_all |   $ D:\work\crawl_news_v2\crawl_venv\Scripts\python.exe pre_dataset\01_cleanup.py --input data\articles_final*.jsonl --input data\migrated_*.jsonl --output data\articles_cleaned.jsonl
+2026-05-01 17:53:46 | INFO    | run_all |   Cleanup OK
+2026-05-01 17:53:46 | INFO    | run_all | >>> RUNNING NER (pre_dataset/02_ner.py)
+2026-05-01 17:53:46 | INFO    | run_all |   $ D:\work\crawl_news_v2\crawl_venv\Scripts\python.exe pre_dataset\02_ner.py --input data\articles_cleaned*.jsonl --output data\articles_ner.jsonl --workers 2
+2026-05-01 18:12:10 | INFO    | run_all |   NER OK
+2026-05-01 18:12:10 | INFO    | run_all | ======================================================================
+2026-05-01 18:12:10 | INFO    | run_all | PIPELINE FINISHED
+2026-05-01 18:12:10 | INFO    | run_all | ======================================================================
