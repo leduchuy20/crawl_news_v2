@@ -14902,5 +14902,797 @@
     "skipped_dup": 49,
     "skipped_old": 0,
     "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://vnexpress.net/rss/tin-moi-nhat.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:54:18.393432+00:00",
+    "fetched": 51,
+    "added": 20,
+    "skipped_dup": 31,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://vnexpress.net/rss/thoi-su.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:54:20.378586+00:00",
+    "fetched": 60,
+    "added": 1,
+    "skipped_dup": 59,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://vnexpress.net/rss/the-gioi.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:54:22.245958+00:00",
+    "fetched": 60,
+    "added": 1,
+    "skipped_dup": 59,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://vnexpress.net/rss/kinh-doanh.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:54:22.699885+00:00",
+    "fetched": 60,
+    "added": 0,
+    "skipped_dup": 60,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://vnexpress.net/rss/giai-tri.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:54:23.822433+00:00",
+    "fetched": 60,
+    "added": 0,
+    "skipped_dup": 60,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://vnexpress.net/rss/the-thao.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:54:24.610716+00:00",
+    "fetched": 60,
+    "added": 0,
+    "skipped_dup": 60,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://vnexpress.net/rss/phap-luat.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:54:27.403745+00:00",
+    "fetched": 60,
+    "added": 2,
+    "skipped_dup": 58,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://vnexpress.net/rss/giao-duc.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:54:28.302821+00:00",
+    "fetched": 60,
+    "added": 0,
+    "skipped_dup": 60,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://vnexpress.net/rss/suc-khoe.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:54:29.183617+00:00",
+    "fetched": 60,
+    "added": 0,
+    "skipped_dup": 60,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://vnexpress.net/rss/gia-dinh.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:54:30.477433+00:00",
+    "fetched": 60,
+    "added": 0,
+    "skipped_dup": 60,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://vnexpress.net/rss/du-lich.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:54:31.321425+00:00",
+    "fetched": 60,
+    "added": 0,
+    "skipped_dup": 60,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://vnexpress.net/rss/khoa-hoc.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:54:32.390492+00:00",
+    "fetched": 60,
+    "added": 0,
+    "skipped_dup": 60,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://vnexpress.net/rss/so-hoa.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:54:33.615372+00:00",
+    "fetched": 60,
+    "added": 0,
+    "skipped_dup": 60,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://vnexpress.net/rss/oto-xe-may.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:54:33.902118+00:00",
+    "fetched": 60,
+    "added": 0,
+    "skipped_dup": 60,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://vnexpress.net/rss/y-kien.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:54:36.170686+00:00",
+    "fetched": 60,
+    "added": 1,
+    "skipped_dup": 59,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://tuoitre.vn/rss/tin-moi-nhat.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:05.147325+00:00",
+    "fetched": 50,
+    "added": 30,
+    "skipped_dup": 20,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://tuoitre.vn/rss/thoi-su.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:05.930255+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://tuoitre.vn/rss/the-gioi.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:06.737215+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://tuoitre.vn/rss/phap-luat.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:07.642608+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://tuoitre.vn/rss/kinh-doanh.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:08.632110+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://tuoitre.vn/rss/giao-duc.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:09.627572+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://tuoitre.vn/rss/the-thao.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:10.428328+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://tuoitre.vn/rss/giai-tri.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:11.315904+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://tuoitre.vn/rss/xe.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:12.162179+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://thanhnien.vn/rss/home.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:38.413865+00:00",
+    "fetched": 60,
+    "added": 26,
+    "skipped_dup": 34,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://thanhnien.vn/rss/thoi-su.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:39.429121+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://thanhnien.vn/rss/the-gioi.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:40.496807+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://thanhnien.vn/rss/kinh-te.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:41.443648+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://thanhnien.vn/rss/van-hoa.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:42.654755+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://thanhnien.vn/rss/the-thao.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:43.410833+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://thanhnien.vn/rss/cong-nghe.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:44.274415+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://thanhnien.vn/rss/gioi-tre.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:45.309994+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://vietnamnet.vn/rss/thoi-su.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:48.203789+00:00",
+    "fetched": 0,
+    "added": 0,
+    "skipped_dup": 0,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://vietnamnet.vn/rss/the-gioi.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:48.755625+00:00",
+    "fetched": 0,
+    "added": 0,
+    "skipped_dup": 0,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://vietnamnet.vn/rss/kinh-doanh.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:49.965276+00:00",
+    "fetched": 0,
+    "added": 0,
+    "skipped_dup": 0,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://vietnamnet.vn/rss/giao-duc.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:50.919316+00:00",
+    "fetched": 0,
+    "added": 0,
+    "skipped_dup": 0,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://vietnamnet.vn/rss/the-thao.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:55:51.387354+00:00",
+    "fetched": 0,
+    "added": 0,
+    "skipped_dup": 0,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://nld.com.vn/rss/home.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:56:06.992460+00:00",
+    "fetched": 60,
+    "added": 15,
+    "skipped_dup": 45,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://nld.com.vn/rss/thoi-su.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:56:07.925316+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://nld.com.vn/rss/quoc-te.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:56:08.913262+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://nld.com.vn/rss/lao-dong.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:56:09.954456+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://nld.com.vn/rss/ban-doc.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:56:10.883757+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://nld.com.vn/rss/kinh-te.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:56:11.908071+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://nld.com.vn/rss/suc-khoe.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:56:12.862224+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://nld.com.vn/rss/giao-duc-khoa-hoc.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:56:13.942545+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://nld.com.vn/rss/phap-luat.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:56:14.939411+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://nld.com.vn/rss/van-hoa-van-nghe.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:56:15.982435+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://nld.com.vn/rss/giai-tri.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:56:16.899185+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://nld.com.vn/rss/the-thao.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:56:17.886913+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://nld.com.vn/rss/du-lich-xanh.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:56:18.777211+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://nld.com.vn/rss/khoa-hoc.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:56:19.847925+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://www.vietnamplus.vn/rss/home.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:56:42.781235+00:00",
+    "fetched": 50,
+    "added": 23,
+    "skipped_dup": 27,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://www.vietnamplus.vn/rss/chinhtri-291.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:56:43.614616+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://www.vietnamplus.vn/rss/thegioi-209.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:56:44.915903+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://www.vietnamplus.vn/rss/kinhte-311.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:56:45.877927+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://www.vietnamplus.vn/rss/xahoi-314.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:56:46.832165+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://www.vietnamplus.vn/rss/doisong-320.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:56:47.775832+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://www.vietnamplus.vn/rss/thethao-214.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:56:48.510601+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://soha.vn/rss/home.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:57:30.206459+00:00",
+    "fetched": 60,
+    "added": 43,
+    "skipped_dup": 17,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://soha.vn/rss/thoi-su-xa-hoi.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:57:31.225330+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://soha.vn/rss/kinh-doanh.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:57:32.053986+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://soha.vn/rss/quoc-te.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:57:32.934735+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://soha.vn/rss/the-thao.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:57:33.897667+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://soha.vn/rss/giai-tri.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:57:34.991609+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://soha.vn/rss/phap-luat.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:57:35.833741+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://nhandan.vn/rss/home.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:57:46.560230+00:00",
+    "fetched": 50,
+    "added": 10,
+    "skipped_dup": 40,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://nhandan.vn/rss/chinhtri-1171.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:57:47.630255+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://nhandan.vn/rss/kinhte-1185.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:57:48.523220+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://nhandan.vn/rss/phapluat-1287.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:57:49.472983+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://nhandan.vn/rss/du-lich-1257.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:57:50.280264+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://nhandan.vn/rss/thegioi-1231.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:57:51.122244+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://nhandan.vn/rss/thethao-1224.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:57:51.815441+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://baotintuc.vn/tin-moi-nhat.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:58:19.963650+00:00",
+    "fetched": 10,
+    "added": 10,
+    "skipped_dup": 0,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://baotintuc.vn/thoi-su.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:58:21.670086+00:00",
+    "fetched": 10,
+    "added": 0,
+    "skipped_dup": 10,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://baotintuc.vn/the-gioi.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:58:26.638737+00:00",
+    "fetched": 10,
+    "added": 2,
+    "skipped_dup": 8,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://baotintuc.vn/kinh-te.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:58:27.739949+00:00",
+    "fetched": 10,
+    "added": 0,
+    "skipped_dup": 10,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://baotintuc.vn/xa-hoi.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:58:33.228939+00:00",
+    "fetched": 10,
+    "added": 2,
+    "skipped_dup": 8,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://baotintuc.vn/phap-luat.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:58:36.783169+00:00",
+    "fetched": 10,
+    "added": 1,
+    "skipped_dup": 9,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://baotintuc.vn/giao-duc.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:58:38.584756+00:00",
+    "fetched": 10,
+    "added": 0,
+    "skipped_dup": 10,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://baotintuc.vn/van-hoa.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:58:47.651390+00:00",
+    "fetched": 10,
+    "added": 4,
+    "skipped_dup": 6,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://baotintuc.vn/the-thao.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:58:50.901625+00:00",
+    "fetched": 10,
+    "added": 1,
+    "skipped_dup": 9,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://baotintuc.vn/quan-su.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:58:52.015923+00:00",
+    "fetched": 10,
+    "added": 0,
+    "skipped_dup": 10,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://kienthuc.net.vn/rss/home.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:59:06.114792+00:00",
+    "fetched": 50,
+    "added": 14,
+    "skipped_dup": 36,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://kienthuc.net.vn/rss/chinh-tri-348.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:59:07.058862+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://kienthuc.net.vn/rss/xa-hoi-349.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:59:07.976042+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://kienthuc.net.vn/rss/the-gioi-350.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:59:08.637971+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://kienthuc.net.vn/rss/quan-su-359.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:59:09.781196+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
+  },
+  "feed:2026-05-03T06:https://kienthuc.net.vn/rss/giai-tri-365.rss": {
+    "done": true,
+    "ts": "2026-05-03T08:59:10.792464+00:00",
+    "fetched": 50,
+    "added": 0,
+    "skipped_dup": 50,
+    "skipped_old": 0,
+    "skipped_invalid": 0
   }
 }
